@@ -28,7 +28,6 @@ public class ScoreAnalyzer {
             }
         }
 
-
         for (int i = 0, j = scores.length - 1; i < j; i++, j--) {
             int temp = scores[j];
             scores[j] = scores[i];
@@ -38,7 +37,6 @@ public class ScoreAnalyzer {
             subjects[j] = subjects[i];
             subjects[i] = temp2;
         }
-
 
         int ave = 0;
         for (int j = 0; j < scores.length; j++) {
