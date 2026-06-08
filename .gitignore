@@ -1,0 +1,17 @@
+# Compiled class files
+*.class
+
+# IDE 檔案
+.idea/
+*.iml
+.DS_Store
+
+# 輸出目錄
+out/
+build/
+target/
+bin/
+
+# 暫存檔
+*.log
+*.tmp
