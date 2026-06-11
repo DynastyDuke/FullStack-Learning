@@ -2,7 +2,7 @@ package Java.others;
 
 import java.util.Scanner;
 
-public class RandomPra {
+public class RandomPractice {
 
     public static void guessNumber() {
         Scanner in = new Scanner(System.in);
@@ -78,6 +78,7 @@ public class RandomPra {
     }
 
     public static void main(String[] args) {
+
         passwordGenerator();
     }
 }

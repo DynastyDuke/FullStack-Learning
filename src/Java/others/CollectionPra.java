@@ -75,9 +75,6 @@ public class CollectionPra {
     }
 
 
-
-
-
     public static void main(String[] args) {
         setPra();
     }

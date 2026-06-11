@@ -3,7 +3,7 @@ package Java.others;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class CharStringPra {
+public class NoteStringChar {
 
     public static Scanner in = new Scanner(System.in);
 
